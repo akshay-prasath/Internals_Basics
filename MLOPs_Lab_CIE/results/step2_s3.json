@@ -1,0 +1,12 @@
+{
+  "image_name": "mediqueue-predictor",
+  "image_tag": "v1",
+  "base_image": "python:3.10-slim",
+  "test_input": {
+    "patients_ahead": 14,
+    "staff_count": 10,
+    "is_emergency": 0,
+    "dept_load": 3
+  },
+  "prediction": 46.8627
+}

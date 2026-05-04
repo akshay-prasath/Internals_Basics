@@ -1,0 +1,8 @@
+scikit-learn==1.6.1
+pandas==2.3.3
+numpy
+mlflow==3.1.4
+fastapi==0.128.8
+pydantic>=2,<3
+uvicorn
+joblib==1.5.3

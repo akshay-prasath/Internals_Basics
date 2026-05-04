@@ -1,0 +1,22 @@
+{
+  "experiment_name": "mediqueue-wait-time-min",
+  "models": [
+    {
+      "name": "Ridge",
+      "mae": 5.385976,
+      "rmse": 6.595358,
+      "r2": 0.814143,
+      "mape": 0.099386
+    },
+    {
+      "name": "RandomForest",
+      "mae": 10.38992,
+      "rmse": 11.744034,
+      "r2": 0.410699,
+      "mape": 0.250768
+    }
+  ],
+  "best_model": "Ridge",
+  "best_metric_name": "mae",
+  "best_metric_value": 5.385976
+}

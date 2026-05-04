@@ -1,0 +1,17 @@
+{
+  "health_endpoint": "/health",
+  "predict_endpoint": "/score",
+  "port": 8888,
+  "health_response": {
+    "status": "running",
+    "model": "Ridge",
+    "version": "1.0"
+  },
+  "test_input": {
+    "patients_ahead": 14,
+    "staff_count": 10,
+    "is_emergency": 0,
+    "dept_load": 3
+  },
+  "prediction": 46.8627
+}

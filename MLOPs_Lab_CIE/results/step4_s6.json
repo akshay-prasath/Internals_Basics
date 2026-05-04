@@ -1,0 +1,7 @@
+{
+  "registered_model_name": "mediqueue-wait-time-min-predictor",
+  "version": 1,
+  "run_id": "1f68fa96e378463aa7f75f49ee784e27",
+  "source_metric": "mae",
+  "source_metric_value": 5.385976
+}
